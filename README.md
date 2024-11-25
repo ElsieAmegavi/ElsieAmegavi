@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ElsieAmegavi
 - 👀 I’m interested in frontend developing, cyber security and mobile app development.
+- 🌱 Can code in React,Typescript, Javascript,HTML,and ReactNative. Can utilise Tailwind CSS and Vanilla CSS.
 - 🌱 I’m currently learning javascript,css,html,java,react, react-native and typescript.
 - 💞️ I’m looking to collaborate on projects that can help me better my skills in react and other frameworks.
 - 📫 How to reach me elamegavi62@gmail.com 
